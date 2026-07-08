@@ -1,0 +1,505 @@
+[2026-07-07T04:46:49.782Z] [INFO] =========================================
+[2026-07-07T04:46:49.791Z] [INFO] Server running on port 5005
+[2026-07-07T04:46:49.791Z] [INFO] Process PID: 17456
+[2026-07-07T04:46:49.792Z] [INFO] MongoDB URI: mongodb://127.0.0.1:27017/project2_db
+[2026-07-07T04:46:49.793Z] [INFO] Grace period: 15s
+[2026-07-07T04:46:49.793Z] [INFO] =========================================
+[2026-07-07T04:46:49.808Z] [INFO] Connected to MongoDB database
+[2026-07-07T04:47:09.812Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 24% (Uptime: 20s)
+[2026-07-07T04:47:19.835Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c84c4e2d5acbe56e1001e): "Verification Test Message 1783399620390" at target time Tue Jul 07 2026 10:17:15 GMT+0530 (India Standard Time)
+[2026-07-07T04:47:19.853Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 14% (Uptime: 30s)
+[2026-07-07T04:47:19.872Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c84c4e2d5acbe56e1001e)
+[2026-07-07T04:47:20.461Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T04:47:21.865Z] [INFO] [CPU Monitor] Process CPU: 71%, System CPU: 20% (Uptime: 32s)
+[2026-07-07T04:47:21.866Z] [WARN] [WARNING] CPU usage of process is at 71%! Strike 1/3
+[2026-07-07T04:47:23.878Z] [INFO] [CPU Monitor] Process CPU: 97%, System CPU: 19% (Uptime: 34s)
+[2026-07-07T04:47:23.879Z] [WARN] [WARNING] CPU usage of process is at 97%! Strike 2/3
+[2026-07-07T04:47:25.880Z] [INFO] [CPU Monitor] Process CPU: 100%, System CPU: 15% (Uptime: 36s)
+[2026-07-07T04:47:25.881Z] [WARN] [WARNING] CPU usage of process is at 100%! Strike 3/3
+[2026-07-07T04:47:25.882Z] [ERROR] 
+=========================================
+[2026-07-07T04:47:25.882Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T04:47:25.883Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T04:47:25.883Z] [ERROR] =========================================
+
+[2026-07-07T04:47:25.885Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T04:47:25.930Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T04:47:25.940Z] [INFO] [Shutdown] Spawned new process (PID: 15644). Exiting old process (PID: 17456)...
+[2026-07-07T04:53:44.132Z] [INFO] =========================================
+[2026-07-07T04:53:44.134Z] [INFO] Server running on port 5005
+[2026-07-07T04:53:44.134Z] [INFO] Process PID: 14880
+[2026-07-07T04:53:44.135Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T04:53:44.136Z] [INFO] Grace period: 15s
+[2026-07-07T04:53:44.136Z] [INFO] =========================================
+[2026-07-07T04:53:46.240Z] [INFO] Connected to MongoDB database
+[2026-07-07T04:54:04.216Z] [INFO] [CPU Monitor] Process CPU: 5%, System CPU: 26% (Uptime: 20s)
+[2026-07-07T04:54:09.251Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c86628b96d4e7f9cff144): "Verification Test Message 1783400034226" at target time Tue Jul 07 2026 10:24:09 GMT+0530 (India Standard Time)
+[2026-07-07T04:54:09.556Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c86628b96d4e7f9cff144)
+[2026-07-07T04:54:14.252Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 13% (Uptime: 30s)
+[2026-07-07T04:54:14.684Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T04:54:16.291Z] [INFO] [CPU Monitor] Process CPU: 79%, System CPU: 22% (Uptime: 32s)
+[2026-07-07T04:54:16.292Z] [WARN] [WARNING] CPU usage of process is at 79%! Strike 1/3
+[2026-07-07T04:54:18.293Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 18% (Uptime: 34s)
+[2026-07-07T04:54:18.294Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 2/3
+[2026-07-07T04:54:20.294Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 21% (Uptime: 36s)
+[2026-07-07T04:54:20.294Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 3/3
+[2026-07-07T04:54:20.295Z] [ERROR] 
+=========================================
+[2026-07-07T04:54:20.296Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T04:54:20.297Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T04:54:20.298Z] [ERROR] =========================================
+
+[2026-07-07T04:54:20.299Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T04:54:20.348Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T04:54:20.358Z] [INFO] [Shutdown] Spawned new process (PID: 15204). Exiting old process (PID: 14880)...
+[2026-07-07T04:54:45.396Z] [INFO] =========================================
+[2026-07-07T04:54:45.398Z] [INFO] Server running on port 5005
+[2026-07-07T04:54:45.399Z] [INFO] Process PID: 23068
+[2026-07-07T04:54:45.400Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T04:54:45.401Z] [INFO] Grace period: 15s
+[2026-07-07T04:54:45.402Z] [INFO] =========================================
+[2026-07-07T04:54:48.874Z] [INFO] Connected to MongoDB database
+[2026-07-07T04:55:05.487Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 23% (Uptime: 20s)
+[2026-07-07T04:55:15.533Z] [INFO] [CPU Monitor] Process CPU: 3%, System CPU: 24% (Uptime: 30s)
+[2026-07-07T04:55:26.095Z] [INFO] =========================================
+[2026-07-07T04:55:26.096Z] [INFO] Server running on port 5005
+[2026-07-07T04:55:26.097Z] [INFO] Process PID: 21464
+[2026-07-07T04:55:26.098Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T04:55:26.099Z] [INFO] Grace period: 15s
+[2026-07-07T04:55:26.101Z] [INFO] =========================================
+[2026-07-07T04:55:29.053Z] [INFO] Connected to MongoDB database
+[2026-07-07T04:55:46.159Z] [INFO] [CPU Monitor] Process CPU: 3%, System CPU: 28% (Uptime: 20s)
+[2026-07-07T04:55:51.794Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c86c7ef6a2bda14697d30): "Verification Test Message 1783400135754" at target time Tue Jul 07 2026 10:25:50 GMT+0530 (India Standard Time)
+[2026-07-07T04:55:52.113Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c86c7ef6a2bda14697d30)
+[2026-07-07T04:55:56.125Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T04:55:56.213Z] [INFO] [CPU Monitor] Process CPU: 8%, System CPU: 22% (Uptime: 30s)
+[2026-07-07T04:55:58.216Z] [INFO] [CPU Monitor] Process CPU: 100%, System CPU: 21% (Uptime: 32s)
+[2026-07-07T04:55:58.217Z] [WARN] [WARNING] CPU usage of process is at 100%! Strike 1/3
+[2026-07-07T04:56:00.220Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 20% (Uptime: 34s)
+[2026-07-07T04:56:00.221Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 2/3
+[2026-07-07T04:56:02.222Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 19% (Uptime: 36s)
+[2026-07-07T04:56:02.223Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 3/3
+[2026-07-07T04:56:02.224Z] [ERROR] 
+=========================================
+[2026-07-07T04:56:02.225Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T04:56:02.225Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T04:56:02.226Z] [ERROR] =========================================
+
+[2026-07-07T04:56:02.228Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T04:56:02.274Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T04:56:02.283Z] [INFO] [Shutdown] Spawned new process (PID: 8388). Exiting old process (PID: 21464)...
+[2026-07-07T04:57:12.607Z] [INFO] =========================================
+[2026-07-07T04:57:12.608Z] [INFO] Server running on port 5005
+[2026-07-07T04:57:12.609Z] [INFO] Process PID: 19692
+[2026-07-07T04:57:12.610Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T04:57:12.610Z] [INFO] Grace period: 15s
+[2026-07-07T04:57:12.611Z] [INFO] =========================================
+[2026-07-07T04:57:14.956Z] [INFO] Connected to MongoDB database
+[2026-07-07T04:57:32.693Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 20% (Uptime: 20s)
+[2026-07-07T04:57:42.727Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 20% (Uptime: 30s)
+[2026-07-07T04:57:42.846Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c873318531936b46fdc5c): "Verification Test Message 1783400243036" at target time Tue Jul 07 2026 10:27:38 GMT+0530 (India Standard Time)
+[2026-07-07T04:57:43.039Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c873318531936b46fdc5c)
+[2026-07-07T04:57:43.500Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T04:57:44.745Z] [INFO] [CPU Monitor] Process CPU: 65%, System CPU: 33% (Uptime: 32s)
+[2026-07-07T04:57:46.746Z] [INFO] [CPU Monitor] Process CPU: 100%, System CPU: 23% (Uptime: 34s)
+[2026-07-07T04:57:46.747Z] [WARN] [WARNING] CPU usage of process is at 100%! Strike 1/3
+[2026-07-07T04:57:48.748Z] [INFO] [CPU Monitor] Process CPU: 98%, System CPU: 22% (Uptime: 36s)
+[2026-07-07T04:57:48.749Z] [WARN] [WARNING] CPU usage of process is at 98%! Strike 2/3
+[2026-07-07T04:57:50.750Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 19% (Uptime: 38s)
+[2026-07-07T04:57:50.751Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 3/3
+[2026-07-07T04:57:50.752Z] [ERROR] 
+=========================================
+[2026-07-07T04:57:50.752Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T04:57:50.753Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T04:57:50.754Z] [ERROR] =========================================
+
+[2026-07-07T04:57:50.756Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T04:57:50.802Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T04:57:52.155Z] [INFO] [Shutdown] Spawned new process (PID: 2248). Exiting old process (PID: 19692)...
+[2026-07-07T04:58:49.397Z] [INFO] =========================================
+[2026-07-07T04:58:49.398Z] [INFO] Server running on port 5005
+[2026-07-07T04:58:49.398Z] [INFO] Process PID: 5696
+[2026-07-07T04:58:49.399Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T04:58:49.400Z] [INFO] Grace period: 15s
+[2026-07-07T04:58:49.400Z] [INFO] =========================================
+[2026-07-07T04:58:52.320Z] [INFO] Connected to MongoDB database
+[2026-07-07T04:59:09.474Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 18% (Uptime: 20s)
+[2026-07-07T04:59:19.506Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 10% (Uptime: 30s)
+[2026-07-07T04:59:19.553Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c8796b7ac6cc54a3c5ba9): "Verification Test Message 1783400342806" at target time Tue Jul 07 2026 10:29:17 GMT+0530 (India Standard Time)
+[2026-07-07T04:59:19.814Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c8796b7ac6cc54a3c5ba9)
+[2026-07-07T04:59:23.503Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T04:59:25.588Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 23% (Uptime: 36s)
+[2026-07-07T04:59:25.592Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 1/3
+[2026-07-07T04:59:27.597Z] [INFO] [CPU Monitor] Process CPU: 98%, System CPU: 22% (Uptime: 38s)
+[2026-07-07T04:59:27.598Z] [WARN] [WARNING] CPU usage of process is at 98%! Strike 2/3
+[2026-07-07T04:59:29.600Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 19% (Uptime: 40s)
+[2026-07-07T04:59:29.601Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 3/3
+[2026-07-07T04:59:29.602Z] [ERROR] 
+=========================================
+[2026-07-07T04:59:29.602Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T04:59:29.603Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T04:59:29.604Z] [ERROR] =========================================
+
+[2026-07-07T04:59:29.605Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T04:59:29.652Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T04:59:30.871Z] [INFO] [Shutdown] Spawned new process (PID: 15004). Exiting old process (PID: 5696)...
+[2026-07-07T05:00:06.183Z] [INFO] =========================================
+[2026-07-07T05:00:06.184Z] [INFO] Server running on port 5005
+[2026-07-07T05:00:06.186Z] [INFO] Process PID: 8124
+[2026-07-07T05:00:06.187Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:00:06.187Z] [INFO] Grace period: 15s
+[2026-07-07T05:00:06.188Z] [INFO] =========================================
+[2026-07-07T05:00:09.121Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:00:26.270Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 21% (Uptime: 20s)
+[2026-07-07T05:00:45.488Z] [INFO] =========================================
+[2026-07-07T05:00:45.489Z] [INFO] Server running on port 5005
+[2026-07-07T05:00:45.489Z] [INFO] Process PID: 344
+[2026-07-07T05:00:45.491Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:00:45.492Z] [INFO] Grace period: 15s
+[2026-07-07T05:00:45.492Z] [INFO] =========================================
+[2026-07-07T05:00:47.399Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:01:05.586Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 14% (Uptime: 20s)
+[2026-07-07T05:01:15.613Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 16% (Uptime: 30s)
+[2026-07-07T05:01:15.661Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c880893c0cdc56138270a): "Verification Test Message 1783400456082" at target time Tue Jul 07 2026 10:31:11 GMT+0530 (India Standard Time)
+[2026-07-07T05:01:16.268Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c880893c0cdc56138270a)
+[2026-07-07T05:01:16.472Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T05:01:17.617Z] [INFO] [CPU Monitor] Process CPU: 62%, System CPU: 34% (Uptime: 32s)
+[2026-07-07T05:01:19.618Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 23% (Uptime: 34s)
+[2026-07-07T05:01:19.619Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 1/3
+[2026-07-07T05:01:21.621Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 21% (Uptime: 36s)
+[2026-07-07T05:01:21.622Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 2/3
+[2026-07-07T05:01:23.622Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 20% (Uptime: 38s)
+[2026-07-07T05:01:23.624Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 3/3
+[2026-07-07T05:01:23.625Z] [ERROR] 
+=========================================
+[2026-07-07T05:01:23.625Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T05:01:23.626Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T05:01:23.627Z] [ERROR] =========================================
+
+[2026-07-07T05:01:23.629Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T05:01:23.674Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T05:01:24.800Z] [INFO] [Shutdown] Spawned new process (PID: 24688). Exiting old process (PID: 344)...
+[2026-07-07T05:01:57.946Z] [INFO] =========================================
+[2026-07-07T05:01:57.947Z] [INFO] Server running on port 5005
+[2026-07-07T05:01:57.948Z] [INFO] Process PID: 19848
+[2026-07-07T05:01:57.948Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:01:57.949Z] [INFO] Grace period: 15s
+[2026-07-07T05:01:57.950Z] [INFO] =========================================
+[2026-07-07T05:01:59.686Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:02:18.025Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 22% (Uptime: 20s)
+[2026-07-07T05:02:28.076Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 16% (Uptime: 30s)
+[2026-07-07T05:02:28.137Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c88502568310eacc9a35a): "Verification Test Message 1783400528638" at target time Tue Jul 07 2026 10:32:23 GMT+0530 (India Standard Time)
+[2026-07-07T05:02:28.457Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c88502568310eacc9a35a)
+[2026-07-07T05:02:29.108Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T05:02:30.114Z] [INFO] [CPU Monitor] Process CPU: 51%, System CPU: 24% (Uptime: 32s)
+[2026-07-07T05:02:32.121Z] [INFO] [CPU Monitor] Process CPU: 97%, System CPU: 25% (Uptime: 34s)
+[2026-07-07T05:02:32.123Z] [WARN] [WARNING] CPU usage of process is at 97%! Strike 1/3
+[2026-07-07T05:02:34.124Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 26% (Uptime: 36s)
+[2026-07-07T05:02:34.125Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 2/3
+[2026-07-07T05:02:36.126Z] [INFO] [CPU Monitor] Process CPU: 98%, System CPU: 26% (Uptime: 38s)
+[2026-07-07T05:02:36.127Z] [WARN] [WARNING] CPU usage of process is at 98%! Strike 3/3
+[2026-07-07T05:02:36.127Z] [ERROR] 
+=========================================
+[2026-07-07T05:02:36.128Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T05:02:36.129Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T05:02:36.129Z] [ERROR] =========================================
+
+[2026-07-07T05:02:36.131Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T05:02:36.176Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T05:02:37.278Z] [INFO] [Shutdown] Spawned new process (PID: 20048). Exiting old process (PID: 19848) in 500ms...
+[2026-07-07T05:10:16.093Z] [INFO] =========================================
+[2026-07-07T05:10:16.094Z] [INFO] Server running on port 5005
+[2026-07-07T05:10:16.095Z] [INFO] Process PID: 13360
+[2026-07-07T05:10:16.095Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:10:16.096Z] [INFO] Grace period: 15s
+[2026-07-07T05:10:16.097Z] [INFO] =========================================
+[2026-07-07T05:10:18.067Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:10:36.157Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 16% (Uptime: 20s)
+[2026-07-07T05:10:46.183Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 13% (Uptime: 30s)
+[2026-07-07T05:10:46.274Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c8a430c775c5cb187c93b): "Verification Test Message 1783401027331" at target time Tue Jul 07 2026 10:40:42 GMT+0530 (India Standard Time)
+[2026-07-07T05:10:46.497Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c8a430c775c5cb187c93b)
+[2026-07-07T05:10:47.833Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T05:10:48.195Z] [INFO] [CPU Monitor] Process CPU: 19%, System CPU: 25% (Uptime: 32s)
+[2026-07-07T05:10:50.196Z] [INFO] [CPU Monitor] Process CPU: 100%, System CPU: 19% (Uptime: 34s)
+[2026-07-07T05:10:50.197Z] [WARN] [WARNING] CPU usage of process is at 100%! Strike 1/3
+[2026-07-07T05:10:52.198Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 19% (Uptime: 36s)
+[2026-07-07T05:10:52.199Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 2/3
+[2026-07-07T05:10:54.199Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 19% (Uptime: 38s)
+[2026-07-07T05:10:54.200Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 3/3
+[2026-07-07T05:10:54.201Z] [ERROR] 
+=========================================
+[2026-07-07T05:10:54.202Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T05:10:54.203Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T05:10:54.203Z] [ERROR] =========================================
+
+[2026-07-07T05:10:54.205Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T05:10:54.250Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T05:10:55.668Z] [INFO] [Shutdown] Spawned new process. Exiting old process (PID: 13360) in 500ms...
+[2026-07-07T05:10:56.196Z] [ERROR] [Scheduler] Error checking scheduled messages: {"errorLabelSet":{}}
+[2026-07-07T05:11:56.192Z] [INFO] =========================================
+[2026-07-07T05:11:56.193Z] [INFO] Server running on port 5005
+[2026-07-07T05:11:56.194Z] [INFO] Process PID: 9640
+[2026-07-07T05:11:56.196Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:11:56.197Z] [INFO] Grace period: 15s
+[2026-07-07T05:11:56.198Z] [INFO] =========================================
+[2026-07-07T05:11:58.712Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:12:16.268Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 14% (Uptime: 20s)
+[2026-07-07T05:12:26.322Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 28% (Uptime: 30s)
+[2026-07-07T05:12:31.360Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c8aaa2db71d7db55c12d7): "Verification Test Message 1783401130921" at target time Tue Jul 07 2026 10:42:30 GMT+0530 (India Standard Time)
+[2026-07-07T05:12:31.549Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c8aaa2db71d7db55c12d7)
+[2026-07-07T05:12:36.362Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 20% (Uptime: 40s)
+[2026-07-07T05:12:36.977Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T05:12:38.381Z] [INFO] [CPU Monitor] Process CPU: 69%, System CPU: 29% (Uptime: 42s)
+[2026-07-07T05:12:40.382Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 19% (Uptime: 44s)
+[2026-07-07T05:12:40.384Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 1/3
+[2026-07-07T05:12:42.386Z] [INFO] [CPU Monitor] Process CPU: 100%, System CPU: 21% (Uptime: 46s)
+[2026-07-07T05:12:42.387Z] [WARN] [WARNING] CPU usage of process is at 100%! Strike 2/3
+[2026-07-07T05:12:44.388Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 20% (Uptime: 48s)
+[2026-07-07T05:12:44.389Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 3/3
+[2026-07-07T05:12:44.390Z] [ERROR] 
+=========================================
+[2026-07-07T05:12:44.391Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T05:12:44.391Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T05:12:44.392Z] [ERROR] =========================================
+
+[2026-07-07T05:12:44.393Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T05:12:44.439Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T05:12:45.610Z] [INFO] [Shutdown] Spawned new process. Exiting old process (PID: 9640) in 500ms...
+[2026-07-07T05:14:25.727Z] [INFO] =========================================
+[2026-07-07T05:14:25.728Z] [INFO] Server running on port 5005
+[2026-07-07T05:14:25.729Z] [INFO] Process PID: 25936
+[2026-07-07T05:14:25.729Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:14:25.730Z] [INFO] Grace period: 15s
+[2026-07-07T05:14:25.731Z] [INFO] =========================================
+[2026-07-07T05:14:27.662Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:14:45.836Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 14% (Uptime: 20s)
+[2026-07-07T05:14:55.888Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 26% (Uptime: 30s)
+[2026-07-07T05:15:05.921Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c8b41a3a9fb8271e763b8): "Verification Test Message 1783401281077" at target time Tue Jul 07 2026 10:45:01 GMT+0530 (India Standard Time)
+[2026-07-07T05:15:05.941Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 10% (Uptime: 40s)
+[2026-07-07T05:15:06.424Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T05:15:06.590Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c8b41a3a9fb8271e763b8)
+[2026-07-07T05:15:07.952Z] [INFO] [CPU Monitor] Process CPU: 79%, System CPU: 26% (Uptime: 42s)
+[2026-07-07T05:15:07.953Z] [WARN] [WARNING] CPU usage of process is at 79%! Strike 1/3
+[2026-07-07T05:15:09.954Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 20% (Uptime: 44s)
+[2026-07-07T05:15:09.955Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 2/3
+[2026-07-07T05:15:11.957Z] [INFO] [CPU Monitor] Process CPU: 100%, System CPU: 19% (Uptime: 46s)
+[2026-07-07T05:15:11.958Z] [WARN] [WARNING] CPU usage of process is at 100%! Strike 3/3
+[2026-07-07T05:15:11.959Z] [ERROR] 
+=========================================
+[2026-07-07T05:15:11.959Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T05:15:11.960Z] [ERROR] [ALERT] Restarting server automatically...
+[2026-07-07T05:15:11.962Z] [ERROR] =========================================
+
+[2026-07-07T05:15:11.964Z] [INFO] [Shutdown] Express server closed successfully.
+[2026-07-07T05:15:12.009Z] [INFO] [Shutdown] MongoDB connection closed.
+[2026-07-07T05:15:12.030Z] [INFO] [Shutdown] Restart command issued. Exiting old process (PID: 25936) in 500ms...
+[2026-07-07T05:17:32.242Z] [INFO] =========================================
+[2026-07-07T05:17:32.244Z] [INFO] Server running on port 5005
+[2026-07-07T05:17:32.244Z] [INFO] Process PID: 6152
+[2026-07-07T05:17:32.245Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:17:32.246Z] [INFO] Grace period: 15s
+[2026-07-07T05:17:32.246Z] [INFO] =========================================
+[2026-07-07T05:17:36.169Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:17:52.359Z] [INFO] [CPU Monitor] Process CPU: 3%, System CPU: 19% (Uptime: 20s)
+[2026-07-07T05:18:02.416Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 19% (Uptime: 30s)
+[2026-07-07T05:18:12.465Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 11% (Uptime: 40s)
+[2026-07-07T05:18:12.487Z] [INFO] [Scheduler] Process scheduled message (ID: 6a4c8bfc77dd2f067961982a): "Verification Test Message 1783401468909" at target time Tue Jul 07 2026 10:48:08 GMT+0530 (India Standard Time)
+[2026-07-07T05:18:12.801Z] [INFO] [Scheduler] Message successfully inserted (ID: 6a4c8bfc77dd2f067961982a)
+[2026-07-07T05:18:14.164Z] [INFO] [STRESS TEST] Starting CPU stress loop for 10000ms...
+[2026-07-07T05:18:14.490Z] [INFO] [CPU Monitor] Process CPU: 17%, System CPU: 33% (Uptime: 42s)
+[2026-07-07T05:18:16.493Z] [INFO] [CPU Monitor] Process CPU: 98%, System CPU: 21% (Uptime: 44s)
+[2026-07-07T05:18:16.494Z] [WARN] [WARNING] CPU usage of process is at 98%! Strike 1/3
+[2026-07-07T05:18:18.496Z] [INFO] [CPU Monitor] Process CPU: 99%, System CPU: 24% (Uptime: 46s)
+[2026-07-07T05:18:18.497Z] [WARN] [WARNING] CPU usage of process is at 99%! Strike 2/3
+[2026-07-07T05:18:20.497Z] [INFO] [CPU Monitor] Process CPU: 100%, System CPU: 19% (Uptime: 48s)
+[2026-07-07T05:18:20.498Z] [WARN] [WARNING] CPU usage of process is at 100%! Strike 3/3
+[2026-07-07T05:18:20.499Z] [ERROR] 
+=========================================
+[2026-07-07T05:18:20.500Z] [ERROR] [ALERT] CPU sustained above 70% threshold!
+[2026-07-07T05:18:20.501Z] [ERROR] [ALERT] Performing graceful shutdown for restart by watcher...
+[2026-07-07T05:18:20.501Z] [ERROR] =========================================
+
+[2026-07-07T05:18:20.503Z] [INFO] [Shutdown] Express server closed.
+[2026-07-07T05:18:20.549Z] [INFO] [Shutdown] MongoDB connection closed. Exiting with code 99 for watcher restart...
+[2026-07-07T05:18:23.417Z] [INFO] =========================================
+[2026-07-07T05:18:23.418Z] [INFO] Server running on port 5005
+[2026-07-07T05:18:23.419Z] [INFO] Process PID: 21348
+[2026-07-07T05:18:23.419Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T05:18:23.420Z] [INFO] Grace period: 15s
+[2026-07-07T05:18:23.420Z] [INFO] =========================================
+[2026-07-07T05:18:25.774Z] [INFO] Connected to MongoDB database
+[2026-07-07T05:18:43.483Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 13% (Uptime: 20s)
+[2026-07-07T05:18:53.525Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 18% (Uptime: 30s)
+[2026-07-07T05:19:03.570Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 23% (Uptime: 40s)
+[2026-07-07T05:19:13.632Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 61% (Uptime: 50s)
+[2026-07-07T05:19:23.648Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 30% (Uptime: 60s)
+[2026-07-07T05:19:33.682Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 10% (Uptime: 70s)
+[2026-07-07T05:19:43.762Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 9% (Uptime: 80s)
+[2026-07-07T05:19:53.805Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 9% (Uptime: 90s)
+[2026-07-07T05:20:03.849Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 7% (Uptime: 100s)
+[2026-07-07T05:20:13.889Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 9% (Uptime: 110s)
+[2026-07-07T05:20:23.935Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 9% (Uptime: 121s)
+[2026-07-07T05:20:33.991Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 22% (Uptime: 131s)
+[2026-07-07T05:20:44.051Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 9% (Uptime: 141s)
+[2026-07-07T05:20:54.115Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 15% (Uptime: 151s)
+[2026-07-07T05:21:04.142Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 10% (Uptime: 161s)
+[2026-07-07T05:21:14.178Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 39% (Uptime: 171s)
+[2026-07-07T05:21:24.229Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 11% (Uptime: 181s)
+[2026-07-07T05:21:34.264Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 4% (Uptime: 191s)
+[2026-07-07T05:21:44.305Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 5% (Uptime: 201s)
+[2026-07-07T05:21:54.347Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 25% (Uptime: 211s)
+[2026-07-07T05:22:04.376Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 17% (Uptime: 221s)
+[2026-07-07T06:24:44.947Z] [INFO] =========================================
+[2026-07-07T06:24:44.950Z] [INFO] Server running on port 5005
+[2026-07-07T06:24:44.951Z] [INFO] Process PID: 32164
+[2026-07-07T06:24:44.952Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T06:24:44.953Z] [INFO] Grace period: 15s
+[2026-07-07T06:24:44.954Z] [INFO] =========================================
+[2026-07-07T06:24:59.984Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:04.970Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:05.016Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 23% (Uptime: 20s)
+[2026-07-07T06:25:09.972Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:14.984Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:15.031Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 23% (Uptime: 30s)
+[2026-07-07T06:25:15.112Z] [ERROR] MongoDB connection error: {"message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","errorLabelSet":{},"reason":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40276352,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40275917,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40276351,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null},"cause":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40276352,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40275917,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40276351,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+[2026-07-07T06:25:19.977Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:24.997Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:25.076Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 15% (Uptime: 40s)
+[2026-07-07T06:25:29.997Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:35.012Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:35.124Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 19% (Uptime: 50s)
+[2026-07-07T06:25:40.015Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:45.021Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:45.148Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 9% (Uptime: 60s)
+[2026-07-07T06:25:50.025Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:55.030Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:25:55.187Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 11% (Uptime: 70s)
+[2026-07-07T06:26:00.043Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:05.049Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:05.236Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 17% (Uptime: 80s)
+[2026-07-07T06:26:10.060Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:15.061Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:15.268Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 27% (Uptime: 90s)
+[2026-07-07T06:26:20.067Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:25.092Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:25.311Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 28% (Uptime: 100s)
+[2026-07-07T06:26:30.098Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:35.098Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:35.334Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 11% (Uptime: 110s)
+[2026-07-07T06:26:40.110Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:26:52.142Z] [INFO] =========================================
+[2026-07-07T06:26:52.143Z] [INFO] Server running on port 5005
+[2026-07-07T06:26:52.144Z] [INFO] Process PID: 15348
+[2026-07-07T06:26:52.145Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T06:26:52.146Z] [INFO] Grace period: 15s
+[2026-07-07T06:26:52.146Z] [INFO] =========================================
+[2026-07-07T06:27:07.176Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:27:12.151Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:27:12.211Z] [INFO] [CPU Monitor] Process CPU: 4%, System CPU: 31% (Uptime: 20s)
+[2026-07-07T06:27:17.173Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:27:22.170Z] [ERROR] [Scheduler] Error checking scheduled messages: {}
+[2026-07-07T06:27:22.233Z] [INFO] [CPU Monitor] Process CPU: 3%, System CPU: 10% (Uptime: 30s)
+[2026-07-07T06:27:22.349Z] [ERROR] MongoDB connection error: {"message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","errorLabelSet":{},"reason":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40403217,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40403380,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40403364,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null},"cause":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40403217,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40403380,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40403364,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+[2026-07-07T06:31:38.961Z] [INFO] =========================================
+[2026-07-07T06:31:38.962Z] [INFO] Server running on port 5005
+[2026-07-07T06:31:38.963Z] [INFO] Process PID: 30756
+[2026-07-07T06:31:38.964Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T06:31:38.965Z] [INFO] Grace period: 15s
+[2026-07-07T06:31:38.966Z] [INFO] =========================================
+[2026-07-07T06:31:59.037Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 7% (Uptime: 20s)
+[2026-07-07T06:32:09.064Z] [INFO] [CPU Monitor] Process CPU: 6%, System CPU: 7% (Uptime: 30s)
+[2026-07-07T06:32:09.121Z] [ERROR] MongoDB connection error: {"message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","errorLabelSet":{},"reason":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40689813,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40689703,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40690312,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null},"cause":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40689813,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40689703,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40690312,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+[2026-07-07T06:32:19.109Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 6% (Uptime: 40s)
+[2026-07-07T06:32:29.160Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 3% (Uptime: 50s)
+[2026-07-07T06:33:56.767Z] [INFO] =========================================
+[2026-07-07T06:33:56.769Z] [INFO] Server running on port 5005
+[2026-07-07T06:33:56.770Z] [INFO] Process PID: 28828
+[2026-07-07T06:33:56.771Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T06:33:56.772Z] [INFO] Grace period: 15s
+[2026-07-07T06:33:56.773Z] [INFO] =========================================
+[2026-07-07T06:34:16.572Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:16.822Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 22% (Uptime: 20s)
+[2026-07-07T06:34:17.588Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:18.591Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:19.603Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:20.619Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:21.636Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:22.654Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:23.666Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:24.679Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:25.693Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:26.706Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:26.863Z] [INFO] [CPU Monitor] Process CPU: 3%, System CPU: 15% (Uptime: 30s)
+[2026-07-07T06:34:26.883Z] [ERROR] MongoDB connection error: {"message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","errorLabelSet":{},"reason":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40827808,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40827526,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40827688,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null},"cause":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40827808,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40827526,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40827688,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+[2026-07-07T06:34:27.722Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:28.727Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:29.739Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:30.751Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:31.761Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:32.765Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:33.776Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:34.792Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:35.805Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:36.671Z] [INFO] [CPU Monitor] Process CPU: 5%, System CPU: 16% (Uptime: 20s)
+[2026-07-07T06:34:36.812Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:36.890Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 16% (Uptime: 40s)
+[2026-07-07T06:34:37.818Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:38.832Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:39.850Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:40.860Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:41.865Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:42.875Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:43.878Z] [INFO] =========================================
+[2026-07-07T06:34:43.879Z] [INFO] Server running on port 5005
+[2026-07-07T06:34:43.880Z] [INFO] Process PID: 28892
+[2026-07-07T06:34:43.881Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T06:34:43.882Z] [INFO] Grace period: 15s
+[2026-07-07T06:34:43.884Z] [INFO] =========================================
+[2026-07-07T06:34:46.635Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:46.715Z] [ERROR] MongoDB connection error: {"message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","errorLabelSet":{},"reason":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40847781,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40847663,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40847672,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null},"cause":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40847781,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40847663,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40847672,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+[2026-07-07T06:34:46.724Z] [INFO] [CPU Monitor] Process CPU: 5%, System CPU: 28% (Uptime: 30s)
+[2026-07-07T06:34:47.652Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:48.665Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:49.691Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:50.713Z] [WARN] [Port Bind] Port 5005 is in use. Retrying in 1 second...
+[2026-07-07T06:34:51.740Z] [INFO] =========================================
+[2026-07-07T06:34:51.743Z] [INFO] Server running on port 5005
+[2026-07-07T06:34:51.747Z] [INFO] Process PID: 31028
+[2026-07-07T06:34:51.758Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T06:34:51.762Z] [INFO] Grace period: 15s
+[2026-07-07T06:34:51.769Z] [INFO] =========================================
+[2026-07-07T06:35:06.705Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 13% (Uptime: 20s)
+[2026-07-07T06:35:16.714Z] [INFO] [CPU Monitor] Process CPU: 2%, System CPU: 16% (Uptime: 30s)
+[2026-07-07T06:35:16.875Z] [ERROR] MongoDB connection error: {"message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","errorLabelSet":{},"reason":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40877952,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40878094,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40878115,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null},"cause":{"type":"ReplicaSetNoPrimary","servers":{"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-00.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40877952,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-01.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40878094,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false},"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017":{"address":"ac-fdsi7vn-shard-00-02.8ssnbur.mongodb.net:27017","type":"Unknown","hosts":[],"passives":[],"arbiters":[],"tags":{},"minWireVersion":0,"maxWireVersion":0,"roundTripTime":-1,"minRoundTripTime":0,"lastUpdateTime":40878115,"lastWriteDate":0,"error":{"errorLabelSet":{},"beforeHandshake":false},"topologyVersion":null,"setName":null,"setVersion":null,"electionId":null,"logicalSessionTimeoutMinutes":null,"maxMessageSizeBytes":null,"maxWriteBatchSize":null,"maxBsonObjectSize":null,"primary":null,"me":null,"$clusterTime":null,"iscryptd":false}},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-9sqxdh-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+[2026-07-07T06:35:26.762Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 24% (Uptime: 40s)
+[2026-07-07T06:35:36.803Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 12% (Uptime: 50s)
+[2026-07-07T06:35:46.817Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 9% (Uptime: 60s)
+[2026-07-07T06:35:56.846Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 37% (Uptime: 70s)
+[2026-07-07T06:36:06.900Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 7% (Uptime: 80s)
+[2026-07-07T06:36:16.946Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 15% (Uptime: 90s)
+[2026-07-07T06:36:26.994Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 30% (Uptime: 100s)
+[2026-07-07T06:36:37.037Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 25% (Uptime: 110s)
+[2026-07-07T06:36:47.063Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 28% (Uptime: 120s)
+[2026-07-07T06:36:57.106Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 33% (Uptime: 130s)
+[2026-07-07T06:37:07.143Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 18% (Uptime: 141s)
+[2026-07-07T06:37:17.193Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 34% (Uptime: 151s)
+[2026-07-07T06:37:27.229Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 2% (Uptime: 161s)
+[2026-07-07T06:37:37.267Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 35% (Uptime: 171s)
+[2026-07-07T06:37:47.288Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 20% (Uptime: 181s)
+[2026-07-07T06:37:57.330Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 19% (Uptime: 191s)
+[2026-07-07T06:38:07.378Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 30% (Uptime: 201s)
+[2026-07-07T06:38:17.406Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 15% (Uptime: 211s)
+[2026-07-07T06:38:27.465Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 10% (Uptime: 221s)
+[2026-07-07T06:38:37.492Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 27% (Uptime: 231s)
+[2026-07-07T06:38:47.526Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 29% (Uptime: 241s)
+[2026-07-07T06:38:57.560Z] [INFO] [CPU Monitor] Process CPU: 1%, System CPU: 29% (Uptime: 251s)
+[2026-07-07T06:39:07.589Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 8% (Uptime: 261s)
+[2026-07-07T06:39:17.639Z] [INFO] [CPU Monitor] Process CPU: 0%, System CPU: 7% (Uptime: 271s)
+[2026-07-07T06:39:33.864Z] [INFO] =========================================
+[2026-07-07T06:39:33.866Z] [INFO] Server running on port 5005
+[2026-07-07T06:39:33.867Z] [INFO] Process PID: 11724
+[2026-07-07T06:39:33.868Z] [INFO] MongoDB URI: mongodb+srv://divyamdsinha_db_user:hACwIbHHKzLZNChL@cluster0.8ssnbur.mongodb.net/project2_db
+[2026-07-07T06:39:33.869Z] [INFO] Grace period: 15s
+[2026-07-07T06:39:33.870Z] [INFO] =========================================
+[2026-07-07T06:39:35.227Z] [INFO] Connected to MongoDB database
+[2026-07-07T06:39:35.229Z] [INFO] [Scheduler] Background scheduler started.
